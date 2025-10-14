@@ -1,6 +1,5 @@
 Overview
 
-
 Africa’s growth potential is being held back by two deeply connected infrastructure challenges.
  
 (1)lack of reliable energy.
@@ -15,6 +14,7 @@ PowerLink Africa was created to provide a transparent, community driven, and dec
 
 
 The Problem
+
 1. Energy Deficiency
 
 Over 600 million Africans still lack access to electricity (IEA, 2024).
@@ -24,6 +24,8 @@ Existing grids are centralized, expensive to expand, and often unreliable.
 Many small businesses depend on diesel generators,which are costly and environmentally harmful.
 
 Rural areas remain disconnected due to high setup costs and poor maintenance systems.
+
+
 
 
 2. Connectivity Gap
@@ -40,6 +42,8 @@ The cost of building and maintaining physical infrastructure discourages major t
 Infrastructure projects are often opaque, leaving communities unable to track how resources are allocated.
 
 Local participation in decision-making is minimal, leading to poor maintenance and unsustainable outcomes.
+
+
 
 
 
@@ -61,6 +65,8 @@ Users can access services directly through a mobile app  requesting energy credi
 This approach makes it possible for users to benefit immediately, even during the MVP stage.
 
 
+
+
 2. On-Chain Transparency
 
 All funding, usage, and maintenance records are stored on-chain.
@@ -70,11 +76,15 @@ Every community member can verify how much was contributed, where it went, and w
 This eliminates corruption and promotes accountability.
 
 
+
 3. Community Ownership
 
 PowerLink Africa allows users, local businesses, and microgrid partners to co-own and co-govern infrastructure resources.
 
 Through tokenized participation, communities gain real ownership and influence over their local networks.
+
+
+
 
 
 4. Reward and Incentive Mechanism
@@ -85,14 +95,18 @@ This encourages grassroots adoption and ensures that local communities remain en
 
 
 
+
 5. Powered by Base Blockchain
 
 Base offers scalability, low-cost transactions, and robust developer support 
 
-making it the ideal foundation for real-world, high-volume applications like PowerLink Africa.
+making it the ideal foundation for real world, high volume applications like PowerLink Africa.
 
 
-Because Base is built for real-world adoption, it perfectly aligns with PowerLink Africa’s mission to connect everyday Africans to reliable infrastructure and digital opportunities.
+Because Base is built for real world adoption, it perfectly aligns with PowerLink Africa’s mission to connect everyday
+
+Africans to reliable infrastructure and digital opportunities.
+
 
 
 
@@ -115,12 +129,13 @@ Adoption:-  Builds trust and engagement, creating a foundation for mass adoption
 
 
 
+
 Conclusion
 
 PowerLink Africa transforms Africa’s energy and connectivity challenge into an opportunity for decentralized growth.
 
 By connecting communities through blockchain, transparency, and mobile technology, the project creates a 
 
-sustainable path toward energy independence and digital inclusion built for Africans, powered by Base Blockchain
+sustainable path toward energy independence and digital inclusion built for Africans, powered by Base Blockchain.
 
 

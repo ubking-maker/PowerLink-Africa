@@ -1,4 +1,6 @@
 Overview
+
+
 Africa’s growth potential is being held back by two deeply connected infrastructure challenges.
  
 (1)lack of reliable energy.
